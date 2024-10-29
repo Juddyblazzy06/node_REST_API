@@ -9,4 +9,4 @@ This project contains:
 ## Setup and Instructions
 1. Clone the repository using:
 ```cmd
-git clone https://github.com/Juddyblazzy06/node_assignment_1
+git clone https://github.com/Juddyblazzy06/node_REST_API
