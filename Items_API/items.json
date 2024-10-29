@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Milo", "price": "$5000", "size": "small(m)", "id": 1 },
+    { "name": "Ovatine", "price": "$600", "size": "medium(m)", "id": 2 },
+    { "name": "Bournvita", "price": "$870", "size": "small(s)", "id": 3 },
+    { "name": "Salt", "price": "$5800", "size": "large(l)", "id": 4 },
+    { "name": "Salt", "price": "$5800", "size": "large(l)", "id": 5 },
+    { "name": "Milo", "price": "$7850", "size": "large", "id": 6 },
+    { "name": "Maggi", "price": "$5800", "size": "large(l)", "id": 7 },
+    { "name": "Fish", "price": "$3800", "size": "large(l)", "id": 8 },
+    { "name": "Fish", "price": "$3800", "size": "large(l)", "id": 9 },
+    { "name": "Fish", "price": "$3800", "size": "large(l)", "id": 10 }
+  ]
+}
